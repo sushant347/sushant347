@@ -80,12 +80,6 @@ This portfolio reflects my current direction: stronger UI systems, better respon
   Impact: Strengthened core AI/ML thinking through behavior design and iterative experimentation.
   Repo: [github.com/sushant347/AI_Car_Project](https://github.com/sushant347/AI_Car_Project)
 
-### GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushant347&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant347&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ### Social
 <p align="left">
   <a href="https://www.instagram.com/sushantgautam258/">
